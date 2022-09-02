@@ -1,0 +1,10 @@
+# Base ----------------------------------------
+pandas==1.4.2
+numpy>=1.18.5
+
+# Machine learning ----------------------------
+sklearn
+
+# Application ---------------------------------
+streamlit
+tabulate
