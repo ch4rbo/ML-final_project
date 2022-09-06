@@ -70,7 +70,7 @@ team_points = {'Argentina' : 1770.65, 'Australia' : 1483.73,
 # load the model:
 model = pickle.load(open('models/GB_WC.pkl', 'rb'))
 
-st.image('https://raw.githubusercontent.com/ch4rbo/ML-final_project/master/banner.png')
+st.image('https://raw.githubusercontent.com/ch4rbo/ML-final_project/master/banner.png', width= 800)
 st.title('WC Qatar 2022 match predictor')
 
 
